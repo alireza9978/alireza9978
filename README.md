@@ -7,11 +7,9 @@ I'm Alireza
 - 👓 My main fields of interest are Machine Learning and Deep Learning
 - 🌱 I'm currently Django
 - 💪 Kinda obssesed with working out at the moment
-- 
  
 <!-- Taken from https://github.com/Galiold/Galiold/blob/main/README.md  -->
 [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=Alireza-Rahimi&labelColor=313131&color=313131)](mailto:alireza.rahimi.me@gmail.com)
-[![linkedin](https://img.shields.io/badge/-@agoldani-313131?style=flat-square&labelColor=313131&logo=LinkedIn&color=313131)](https://www.linkedin.com/in/rahimialireza9978)   
 [![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://github.com/alireza9978/alireza9978/raw/main/cv.pdf)
 <!-- [![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://ashthefallen.github.io/resume.pdf)   -->
 
