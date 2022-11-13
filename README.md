@@ -5,7 +5,7 @@ I'm Alireza
 <!-- <img align="left" src="https://i.redd.it/mds31m44jjv51.png" height="120px"> -->
 - 💻 I'm a Computer Engineering Student currently studying at Ferdowsi University of Mashhad
 - 👓 My main fields of interest are Machine Learning and Deep Learning
-- 🌱 I'm currently Django
+- 🌱 I'm currently learning Django
 - 💪 Kinda obssesed with working out at the moment
  
 <!-- Taken from https://github.com/Galiold/Galiold/blob/main/README.md  -->
