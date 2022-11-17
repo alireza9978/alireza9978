@@ -12,3 +12,13 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         - uses: ryuanerin/top-languages-readme@master
+          with:
+            COMMIT_MESSAGE: "Updated the Graph with new Metrics" # Optional
+            USERNAME: alireza9978 # Optional
+            LINE_FORMAT: "$NAME   $SIZE $BAR  $PERCENT" # Optional
+            LIST_COUNT: 10 # Optional
+            BLOCKS: "░█" # Optional
+            BAR_WIDTH: 25 # Optional
+            SHOW_TOTAL: true # Optional
+            TOP_TOTAL: true # Optional
+            SHOW_TOTAL_SEPARATOR: true # Optional
