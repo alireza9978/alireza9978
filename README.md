@@ -15,7 +15,7 @@ I'm Alireza
 
 <br />
 
-[![Alireza's GitHub Streak](https://github-stats-alpha.vercel.app/api?username=alireza9978&cc=000&tc=fff&ic=fff&bc=000)]
+![Alireza's GitHub Streak](https://github-stats-alpha.vercel.app/api?username=alireza9978&cc=000&tc=fff&ic=fff&bc=000)
 
 <!-- [![Alireza's GitHub Streak](https://streak-stats.demolab.com?user=alireza9978&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 <!-- [![Alireza's GiHub stats](https://github-readme-stats.vercel.app/api?username=alireza9978&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
