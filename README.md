@@ -19,12 +19,10 @@ I'm Alireza
 
 <!-- [![Alireza's GitHub Streak](https://streak-stats.demolab.com?user=alireza9978&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 <!-- [![Alireza's GiHub stats](https://github-readme-stats.vercel.app/api?username=alireza9978&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza9978&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza9978&layout=compact&theme=tokyonight)
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=alireza9978&custom_title=Alireza's%20activity%20graph&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--START_SECTION:top_language-->
-<!--END_SECTION:top_language-->
 
 <br /><br />
 
