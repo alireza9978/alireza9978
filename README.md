@@ -15,8 +15,9 @@ I'm Alireza
 
 <br />
 
-[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza9978&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza9978&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Alireza's GitHub Streak](https://streak-stats.demolab.com?user=alireza9978&theme=dark&hide_border=true)](https://git.io/streak-stats)
+#[![Alireza's GiHub stats](https://github-readme-stats.vercel.app/api?username=alireza9978&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza9978&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /><br />
 
