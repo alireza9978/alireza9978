@@ -23,6 +23,8 @@ I'm Alireza
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=alireza9978&custom_title=Alireza's%20activity%20graph&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--START_SECTION:top_language-->
+<!--END_SECTION:top_language-->
 
 <br /><br />
 
