@@ -3,10 +3,8 @@ I'm Alireza
 
 ### About me: 
 <!-- <img align="left" src="https://i.redd.it/mds31m44jjv51.png" height="120px"> -->
-- 💻 I'm a Computer Engineering Student currently studying at Ferdowsi University of Mashhad
-- 👓 My main fields of interest are Machine Learning and Deep Learning
-- 🌱 I'm currently learning Django
-- 💪 Kinda obssesed with working out at the moment
+- 💻 I'm a Computer Science Student currently studying at the University of New Brunswick
+- 👓 My main fields of interest are Machine Learning and IoT
  
 <!-- Taken from https://github.com/Galiold/Galiold/blob/main/README.md  -->
 [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=Alireza-Rahimi&labelColor=313131&color=313131)](mailto:alireza.rahimi.me@gmail.com)
